@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a2a9790dc6d09b2e3de7055d",
+  "owner": "qpbs6vkgf",
+  "repo": "page-4bb4c3def050656fbcdbbc44",
+  "title": "大风车(Dafengche)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4bb4c3def050656fbcdbbc44",
+      "a": "大风车(Dafengche)",
+      "b": "机场官网线路发布页",
+      "entity": "大风车(Dafengche)",
+      "brand": "大风车(Dafengche)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "28cfd7b03ed0a8be71efdc2d70f1408e84c8ea3e0f60f92f008a08a1005d2675",
+      "content": {
+        "primary_entity": "大风车(Dafengche)",
+        "keyword1": "大风车(Dafengche)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，大风车专注海外网络连接场景，为不同设备与流量需求的用户提供基础版、旗舰版和团队版三档订阅方案。基础版每月100GB流量、支持3台设备，适合个人日常使用；旗舰版每月300GB流量、支持5台设备，并配备IPLC专线游戏加速优化；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点。按年付可享受更划算的价格，用户可依据使用设备数量与月流量消耗选择合适档位。",
+          "AI_HERO_SUBTITLE": "大风车，稳定连接你的海外网络",
+          "AI_HERO_INTRO": "大风车提供基础版、旗舰版和团队版三档海外加速订阅，覆盖从个人日常到多设备团队协作的使用场景。每档套餐在流量额度、设备数量和线路品质上各有侧重，用户可按实际需求灵活选择。",
+          "AI_VISUAL_TITLE": "大风车，连接更快一步",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "按年付享受更优价格",
+          "AI_FEATURES_TITLE": "为不同场景选择合适套餐",
+          "AI_FEATURES_INTRO": "结合设备数量、月流量和线路需求，大风车提供三种订阅档位供用户对比选择。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版最多支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB或1000GB三档流量，对应不同强度的日常使用。",
+          "AI_FEATURE_TITLE_3": "按线路品质选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速优化，团队版配备VIP专属高带宽节点。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据常用设备类型，选择对应的客户端并导入订阅配置，即可开始使用大风车。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月。按年付分别仅需¥150、¥350和¥850。旗舰版为热门选择，适合需要IPLC专线加速和多设备同时在线的用户；团队版适合多设备高流量场景。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从需求出发选择套餐，确认设备匹配，再导入订阅信息。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，从基础版、旗舰版或团队版中选择合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与所选客户端的最低配置要求是否匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档指引，导入订阅信息并启动连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与套餐选择。",
+          "AI_FAQ_QUESTION_1": "大风车支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "大风车提供适用于常见桌面和移动系统的客户端选择，具体兼容列表建议参考对应客户端文档。不同设备可导入同一订阅信息，设备数量受套餐档位限制。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版有什么主要区别？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备、普通线路节点池；旗舰版每月300GB流量、支持5台设备，并增加IPLC专线游戏加速优化和7x24优先工单支持。可按使用强度选择。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景使用？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备同时在线，配备VIP专属高带宽节点和企业定制路由选项，适合多人协作或设备数量较多的使用场景。",
+          "AI_FAQ_QUESTION_4": "按年付和按月付价格相差多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付相当于节省两个月费用，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅配置？",
+          "AI_FAQ_ANSWER_5": "选择与设备匹配的客户端后，按客户端文档中的订阅导入步骤操作即可。遇到配置问题时，可通过工单渠道获得支持。",
+          "AI_CLOSING_TITLE": "选择适合你的大风车套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定档位，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mdtxm3.cn",
+    "host": "mdtxm3.cn"
+  },
+  "file_hashes": {
+    "index.html": "fa28ec912eabe40b86a881fdb666bb53756c6c42ce96585cef513a9671cde46e",
+    "sitemap.xml": "b86bb80ad74242efd8279398b862cf987982479a865fdddab6e4bd2c46454716",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d0c0077e3c86fa97acf5481143bfc02814bc1487f7282686c06b782016edf4a7",
+    "robots.txt": "94043071a0ed35cc61224f0004af2e4b0eaca185e1ec9f7cad096484bf51d27a",
+    "4bd19553c0cf25a4c51714c55218c8e3.txt": "88e25f1ccf7feb5fc2b1b66a12d4e94b96b3328764a1e2e1a50107960ddd0793"
+  },
+  "revision": "f20a37ecb228f42cdfa920a80d534605e7c1ea94c75c53059741dd595a11d66b"
+}
